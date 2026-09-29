@@ -1,0 +1,9 @@
+# RÈGLE STRICTE IA CENTER : fichiers IA et assistants (jamais sur git)
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.agent/
+.agents/
+.claude/
+.codex/
+.cursor/
